@@ -1,5 +1,3 @@
-//姓名 : 鍾明智
-//學號 : 107213067
 import java.util.*;
 public class Marathon {
     private static void findSum(int[] arr, int n, Vector<Integer> v, int sum) {
